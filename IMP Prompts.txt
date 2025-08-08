@@ -1,0 +1,30 @@
+// sonnet prompt for easy question understand: 
+
+"I need help with [problem name/description]. Please provide:
+
+Problem Understanding: Briefly restate the problem and key constraints
+
+Intuition: Explain the core insight needed to solve this problem
+
+Multiple Approaches: Show different solutions from brute force to optimal:
+
+Brute force approach with explanation
+Any intermediate optimizations
+Most optimal solution
+
+
+Code Implementation: Provide clean, well-commented code for each approach
+
+Time & Space Complexity: Analyze complexity for each solution
+
+Edge Cases: Important test cases to consider
+
+Problem: [Insert your specific coding problem here]" 
+
+==================================================================================================================================
+// error code fix: 
+fix the code of leetcode problem() , and explain why the error occure . Also give in general step-wise approach to solve this question. the code is : 
+
+====================================================================================================================================
+
+// explain this code :
