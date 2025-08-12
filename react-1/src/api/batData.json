@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Inception",
+    "id": "inception",
+    "img_url": "http://localhost:5173/images/inception.webp",
+    "rating": "8.8",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "watch_url": "https://www.example.com/watch/inception"
+  },
+  {
+    "name": "The Dark Knight",
+    "id": "the-dark-knight",
+    "img_url": "http://localhost:5173/images/tdk.webp",
+    "rating": "9.0",
+    "description": "When the menace known as the Joker wreaks havoc on Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.example.com/watch/the-dark-knight"
+  },
+  {
+    "name": "Pulp Fiction",
+    "id": "pulp-fiction",
+    "img_url": "http://localhost:5173/images/pulp-fiction.webp",
+    "rating": "8.9",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "genre": ["Crime", "Drama"],
+    "watch_url": "https://www.example.com/watch/pulp-fiction"
+  },
+  {
+    "name": "Forrest Gump",
+    "id": "forrest-gump",
+    "img_url": "http://localhost:5173/images/forrest-gump.webp",
+    "rating": "8.8",
+    "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "genre": ["Drama", "Romance"],
+    "watch_url": "https://www.example.com/watch/forrest-gump"
+  }
+]
