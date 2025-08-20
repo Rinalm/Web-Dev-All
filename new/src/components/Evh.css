@@ -1,0 +1,47 @@
+/* write css for button */
+button {
+  background-color: greenyellow; /*#4CAF50 green background */
+  color: #fff; /* white text */
+  border: none; /* no border */
+  padding: 10px 20px;   /*add some padding */
+  font-size: 16px; /* set font size */
+  cursor: pointer; /* change cursor on hover */
+  border-radius: 5px; /* rounded corners */
+}
+
+button:hover {
+  background-color: #3e8e41; /* darker green on hover */
+}
+
+/* Evh.css */
+
+.main-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  
+ height: 14vh; /*  Full screen height */
+  width: 10%;
+}
+
+.g-div {
+  background-color: #87cefa; /* Light blue */
+  padding: 50px;
+  border: 3px solid black;
+}
+
+.p-div {
+  background-color: #90ee90; /* Light green */
+  padding: 40px;
+  border: 3px solid black;
+}
+
+.c-div {
+  background-color: #ffeb80; /* Light yellow */
+  padding: 20px 40px;
+  border: 3px solid black;
+  cursor: pointer;
+  font-size: 16px;
+}
