@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        table,tr,td{
+            border: 1px solid blue ;
+            border-collapse: collapse ;
+           text-align: right ;  /* rearrangement of elements diretion */
+           caption-side: bottom; /* rearrangement of caption diretion */
+
+        }
+
+
+
+    </style>
+
+</head>
+<body>
+
+    <table>
+        <caption>my table</caption>
+
+        <tr>
+            <td colspan="2">a</td>
+            <td>a</td>
+            <td>a</td>
+        </tr>
+        <tr>
+            <td>ab</td>
+            <td>ab</td>
+            <td>ab</td>
+        </tr>
+        <tr>
+            <td rowspan="3">abc</td>
+            <td>abc</td>
+            <td>abc</td>
+        </tr>
+        <tr>
+            <td>abcd</td>
+            
+            <td rowspan="2" colspan="2" >abcd</td>
+        </tr>
+        <tr>
+            <td>nike</td>
+            <!-- <td>hnm</td>
+            <td>zara</td> -->
+        </tr>
+
+    </table>
+    
+</body>
+</html>
